@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color:rgb(233, 182, 218);
+    padding:50px;
+    border-radius: 200px;
+    font-family: sans-serif;
+}
+h1 {
+    text-align: center;
+}
+
+.h1 {
+    background-color: rgb(251, 255, 0);
+}
+.a{
+    font-size: 20px;
+    
+}
+.g {
+    text-decoration: none;
+    font-size: 40px;
+    text-align: center;
+    color: violet;
+    float: left;
+}
+.gi {
+    text-decoration: none;
+    font-size: 40px;
+    text-align: center;
+    color: violet;
+    float: right;
+}
+.g:hover {
+    border-bottom: 1px solid white;
+}
+.gi:hover {
+    border-bottom: 1px solid white;
+}
